@@ -10,7 +10,6 @@ func enterNumber(n *int) {
 	fmt.Scan(n)
 }
 
-//Моя функция main
 func main() {
 	var n, flag int
 	var ans string
