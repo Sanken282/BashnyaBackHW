@@ -1,6 +1,5 @@
 package main
 
-//comment
 import (
 	"fmt"
 	"strings"
